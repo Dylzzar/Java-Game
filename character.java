@@ -1,11 +1,11 @@
-public character class {
+public class character {
 	
 	private int health;
 	private int dmg;
 	private int def;
 	
 	public character() {
-	break;
+		health=5;
 	}
 	
 }
